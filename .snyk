@@ -9,4 +9,7 @@ ignore:
     - '* > coffee-rails@4.2.1':
         reason: None given
         expires: '2017-04-02T21:38:05.196Z'
+    - '* > font-awesome-rails@4.7.0.1':
+        reason: None given
+        expires: '2017-04-18T20:47:03.494Z'
 patch: {}
